@@ -8,6 +8,7 @@ UPDATE v1.14.0
 - Expanded Albums and playlist lists
 - Can restore by parts or regular and export in parts and other options if library is over 1 GB
 - More will be added soon enjoy!
+
 Might be in next update
--More artist backdrops
-Give me suggestions anytime!
+- More artist backdrops
+- Give me suggestions anytime!

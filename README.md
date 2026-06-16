@@ -1,5 +1,5 @@
 Get the full experience of fileify, features will come out in the future DM me @gabrielthegoatlmao for any questions
-UPDATE v1.14.0
+UPDATE v1.15.0
 - Added lyrics
 - First version to be a app
 - Daily mixes

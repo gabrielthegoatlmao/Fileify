@@ -1,3 +1,4 @@
+UPDATE: Created a subreddit for the app i will ask you guys what i should add or remove ill also do polls https://www.reddit.com/r/Fileify/
 <img width="1896" height="966" alt="Screenshot 2026-06-18 014408" src="https://github.com/user-attachments/assets/f26c2e99-c0f8-465b-8308-66758451fa76" />
 <img width="1161" height="821" alt="image_2026-06-18_014627355" src="https://github.com/user-attachments/assets/60053a5a-185e-448a-991e-0e73758f73d9" />
 <img width="1869" height="879" alt="Screenshot 2026-06-18 014231" src="https://github.com/user-attachments/assets/0a78eade-da87-44d5-8483-61127e2149b7" />

@@ -15,4 +15,7 @@ A Unreleased music fan? or you like streaming with files? Well i got the app for
 - New Updates
 - Working shuffle and queue
 - Your computer stays on when in the now playing screen!
+
 So why wait download now!
+
+And yes the "Good night" text on the top changes to "good morning, good afternoon, etc" based what time it is

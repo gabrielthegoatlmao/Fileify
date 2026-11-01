@@ -1,3 +1,5 @@
+ATTENTION
+I have noticed the percentage in app storage has been showing high numbers like 91.9% or lass to 70% i am patching a fix but for now just wait for a fix because its highly inaccurate 
 
 # Fileify
 

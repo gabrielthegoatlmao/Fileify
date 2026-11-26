@@ -1,3 +1,7 @@
+UPDATE 11/26/26 
+Hey everyone! The site Wallpaper cave has shut down and if you didnt know thats where half the images come from and the images are not loading we are updating all the links so keep watch because the updated links.js will be here first also we have a update tomorrow on the 27th and a big update in the next few weeks or so so keep watch of those if you wish. 
+Thanks everyone!
+
 # Fileify
 
 Official Fileify music app.
